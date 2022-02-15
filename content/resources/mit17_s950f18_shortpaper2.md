@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-s950-emotions-and-politics-fall-2018/21b2731704751107f5af2fb03cac9e47_MIT17_S950F18_ShortPaper2.pdf
+file: /media/courses/17-s950-emotions-and-politics-fall-2018/21b2731704751107f5af2fb03cac9e47_MIT17_S950F18_ShortPaper2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '17.S950_F18 Assignments: Short Paper Student Example 2'
 uid: 21b27317-0475-1107-f5af-2fb03cac9e47
