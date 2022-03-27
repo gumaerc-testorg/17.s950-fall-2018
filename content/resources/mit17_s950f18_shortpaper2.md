@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9c975f2d-59ef-8544-a9d8-07de25f366eb
 resourcetype: Document
 title: '17.S950_F18 Assignments: Short Paper Student Example 2'
 uid: 21b27317-0475-1107-f5af-2fb03cac9e47

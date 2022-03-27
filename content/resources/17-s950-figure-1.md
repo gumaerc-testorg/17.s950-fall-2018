@@ -17,6 +17,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus and Calendar
 parent_type: CourseSection
+parent_uid: 27ea68a2-b766-b748-95ea-ea9a4a0d4f67
 resourcetype: Image
 title: 17.S950 Figure 1.JPG
 uid: fe058c8a-cefa-acf7-f7b4-52fb118919e8
