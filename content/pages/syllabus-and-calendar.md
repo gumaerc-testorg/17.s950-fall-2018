@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus and Calendar
@@ -21,7 +22,7 @@ Course Overview
 
 This course is premised on the belief that emotions are a fundamental part of human nature. Accordingly, understanding emotions and incorporating emotions into our research can help us better explain variation in important political phenomena. As shown by the figure below taken from a recent summary article in the Annual Review of Psychology, research on emotions and how emotions can influence decision-making has dramatically increased over the past two decades. The class aims to pick up on new findings from psychology and other disciplines and marshal this knowledge toward the most important issues of political science.
 
-![A graph illustrating the number of papers on "emotions(s)/affect/mood and decision making" from 1970 to 2012.](/courses/political-science/17-s950-emotions-and-politics-fall-2018/syllabus-and-calendar/17-S950_Figure1.jpg)
+{{< resource "97054120-1199-21f7-7526-87b3a6319b1b" >}}
 
 Lerner, Jennifer S., Ye Li, Piercarlo Valdesolo, et al. Figure 1 in "Emotion and Decision Making." _Annual Review of Psychology_ 66 (2015): 799–823. © Annual Reviews. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/). 
 
@@ -89,7 +90,7 @@ Final paper (20–25 pages) 
 
 {{< tableclose >}}
 
-Details on the papers can be found in the [Assignments]({{< baseurl >}}/pages/assignments) section.
+Details on the papers can be found in the {{% resource_link 9c975f2d-59ef-8544-a9d8-07de25f366eb "Assignments" %}} section.
 
 Readings
 --------
@@ -98,7 +99,7 @@ There is one required book which will be read during Week 6:
 
 McClendon, Gwyneth H. _Envy in Politics_. Princeton University Press, 2018. ISBN: 9780691178653. \[Preview with [Google Books](https://books.google.com/books?id=zw08DwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-All other readings can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
+All other readings can be found in the {{% resource_link 0da0f6f5-f22b-abe2-fff4-3d4b37716518 "Readings" %}} section.
 
 Calendar
 --------
