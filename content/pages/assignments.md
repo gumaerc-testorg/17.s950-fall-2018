@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 9c975f2d-59ef-8544-a9d8-07de25f366eb
 ---
@@ -13,11 +17,11 @@ Each student will write a short paper on the role of a specific emotion and that
 
 _Student Examples_
 
-["Anger and Collective Action." (PDF)]({{< baseurl >}}/resources/mit17_s950f18_shortpaper1)
+{{% resource_link d430c923-4df5-8cb2-185d-c4adbdc8c431 "\"Anger and Collective Action.\" (PDF)" %}}
 
-["Emotions and Cue-Taking in Foreign Policy Opinion: The Differential Effects of Anger versus Fear on Opinion Formation." (PDF)]({{< baseurl >}}/resources/mit17_s950f18_shortpaper2)
+{{% resource_link 21b27317-0475-1107-f5af-2fb03cac9e47 "\"Emotions and Cue-Taking in Foreign Policy Opinion: The Differential Effects of Anger versus Fear on Opinion Formation.\" (PDF)" %}}
 
-["Envy, Anger and Political Mobilization in South Africa." (PDF)]({{< baseurl >}}/resources/mit17_s950f18_shortpaper3)
+{{% resource_link c1c56331-397c-39e9-a76a-184394a35800 "\"Envy, Anger and Political Mobilization in South Africa.\" (PDF)" %}}
 
 Final Paper 
 ------------
@@ -26,6 +30,6 @@ Each student will also write a final paper of roughly 20-25 pages in length. Stu
 
 _Student Example_
 
-["Moral Outrage and Immigration Policy during the Trump Administration." (PDF)]({{< baseurl >}}/resources/mit17_s950f18_finalpaper)
+{{% resource_link 9643274b-45b3-e3a4-24b9-f354e6c31cd8 "\"Moral Outrage and Immigration Policy during the Trump Administration.\" (PDF)" %}}
 
 Student examples appear courtesy of MIT students and are anonymous by request.
