@@ -5,6 +5,7 @@ file: /courses/17-s950-emotions-and-politics-fall-2018/d430c9234df58cb2185dc4adb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

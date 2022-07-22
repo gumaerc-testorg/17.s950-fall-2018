@@ -14,6 +14,7 @@ image_metadata:
   image-alt: A graph illustrating the number of papers on "emotions(s)/affect/mood
     and decision making" from 1970 to 2012.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Syllabus and Calendar
 parent_type: CourseSection
@@ -23,4 +24,3 @@ title: 17.S950 Figure 1.JPG
 uid: fe058c8a-cefa-acf7-f7b4-52fb118919e8
 ---
 A graph illustrating the number of papers on "emotions(s)/affect/mood and decision making" from 1970 to 2012.
-
