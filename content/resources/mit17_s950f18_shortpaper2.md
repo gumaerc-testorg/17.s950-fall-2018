@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/17-s950-emotions-and-politics-fall-2018/21b2731704751107f5af2fb03cac9e47_MIT17_S950F18_ShortPaper2.pdf
+file_size: 207517
 file_type: application/pdf
 learning_resource_types:
 - Assignments
