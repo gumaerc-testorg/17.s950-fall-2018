@@ -3,6 +3,7 @@ content_type: resource
 description: A graph illustrating the number of papers on "emotions(s)/affect/mood
   and decision making" from 1970 to 2012.
 file: /courses/17-s950-emotions-and-politics-fall-2018/fe058c8acefaacf7f7b452fb118919e8_17.S950%20Figure%201.JPG
+file_size: 30372
 file_type: image/jpeg
 image_metadata:
   caption: "Lerner, Jennifer S., Ye Li, Piercarlo Valdesolo, et al. \"Emotion and\
