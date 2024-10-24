@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-s950-emotions-and-politics-fall-2018/ff4cde98fa64392108d552a77cfa2209_17.S950_Figure1.JPG
+file: /ol-ocw-studio-app/courses/17-s950-emotions-and-politics-fall-2018/ff4cde98fa64392108d552a77cfa2209_17.S950_Figure1.JPG
 file_size: 30372
 file_type: image/jpeg
 image_metadata:
